@@ -1,0 +1,7 @@
+ultralytics 
+opencv-python-headless
+gradio 
+streamlit
+lap
+filterpy
+numpy
